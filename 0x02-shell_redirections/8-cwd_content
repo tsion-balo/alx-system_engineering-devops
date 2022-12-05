@@ -1,0 +1,10 @@
+total 36
+drwxr-xr-x 2 root root   131 Dec  5 15:32 .
+drwxrwxrwt 1 root root    50 Dec  5 05:23 ..
+-rw-r--r-- 1 root root     0 Dec  5 15:27 8-cwd_state
+-rwx------ 1 root root    37 Dec  5 15:32 cwdScript.sh
+-rw-r--r-- 1 root root   753 Dec  5 05:59 iacta
+-rw-r--r-- 1 root root     0 Dec  5 15:35 ls_cwd_content
+-rwx------ 1 root root    74 Dec  5 07:49 script.sh
+-rw-r--r-- 1 root root 12288 Dec  5 06:43 .script.sh.swp
+-rw------- 1 root root 12288 Dec  5 06:02 .swp

@@ -1,0 +1,10 @@
+total 24
+-rw-r--r-- 1 root root    0 Dec  5 01:25 0-hello_world
+-rw-r--r-- 1 root root    7 Dec  5 01:25 1-confused_smiley
+-rw-r--r-- 1 root root 1526 Dec  5 01:58 3-twofiles
+-rw-r--r-- 1 root root  651 Dec  5 03:21 4-lastlines
+-rw-r--r-- 1 root root  424 Dec  5 03:31 5-firstlines
+-rw-r--r-- 1 root root   77 Dec  5 07:56 6-third_line
+-rw-r--r-- 1 root root    0 Dec  5 09:39 7-file
+-rw-r--r-- 1 root root    0 Dec  5 09:39 \*\'Best School'\*$\?\*\*\*\*\*:
+-rwxr-xr-x 1 root root   86 Dec  5 09:12 script.sh
