@@ -1,1 +1,2 @@
-hiago
+#!/bin/bash
+echo "$(cat $word |tr -d 'cC' )"

@@ -1,1 +1,2 @@
-esrever
+#!/bin/bash
+echo "$(cat $word |tr -d 'cC' )"
