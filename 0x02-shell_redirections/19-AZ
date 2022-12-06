@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(cat $word | tr 'Ac' 'Ze')"
