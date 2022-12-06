@@ -1,5 +1,2 @@
 #!/bin/bash
-# duplicate last line of iacta
-duplicated="$(tail -n 1 iacta)"
-echo $duplicated >> iacta
-
+echo "$(tail -n 1 iacta >> iacta)"
