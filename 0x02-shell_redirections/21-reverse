@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cat $word |tr -d 'cC' )"
+echo "$(rev $word )"
